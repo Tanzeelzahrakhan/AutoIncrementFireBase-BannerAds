@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521923738433",
+    "project_id": "autoincrement-7ed33",
+    "storage_bucket": "autoincrement-7ed33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521923738433:android:89a6d6f25be44563c8ffc0",
+        "android_client_info": {
+          "package_name": "com.example.autoincrementfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521923738433-i2rikdvptc4n8vkki0do7mpmrmink9jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlUwwXx3nU14Xm9HgMy0gp0DHF4t4ayRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521923738433-i2rikdvptc4n8vkki0do7mpmrmink9jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
